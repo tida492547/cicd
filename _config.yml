@@ -1,3 +1,2 @@
-title: "Networking"
-description: "การเชื่อมต่ออุปกรณ์ต่าง ๆ เข้าหากัน เพื่อให้แชร์ข้อมูลและทรัพยากรได้ผ่านสื่อกลาง เช่น สายเคเบิลหรือ Wi-Fi"
-emoji: "🌐"
+title: CI/CD
+description: A method to automate the stages of app development from integration to delivery and deployment.
