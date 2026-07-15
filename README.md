@@ -1,4 +1,4 @@
-# ⚙️ CI/CD
+
 
 > **Continuous Integration / Continuous Delivery** · หัวใจของ DevOps สมัยใหม่
 
